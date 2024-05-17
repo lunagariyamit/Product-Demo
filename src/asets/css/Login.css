@@ -1,0 +1,14 @@
+.is-error{
+    border-color : red;
+}
+.error-text{
+    font-size: 12px;
+    margin: 0;
+    padding: 0;
+    color: red;
+}
+form,h1{
+    margin-left: 5px;
+    padding: 2px;
+
+}
